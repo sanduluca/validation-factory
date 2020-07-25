@@ -2,6 +2,7 @@
     "name": "ggbear/validation",
     "description": "Standalone library to use Illuminate\\Validation package outside the Laravel framework.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sandu Luca",
