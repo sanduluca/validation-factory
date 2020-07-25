@@ -1,0 +1,19 @@
+{
+    "name": "ggbear/validation",
+    "description": "Standalone library to use Illuminate\\Validation package outside the Laravel framework.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sandu Luca",
+            "email": "sanduluca1@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/validation": "^7.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "GGBear\\Validation\\": "src/"
+        }
+    }
+}
